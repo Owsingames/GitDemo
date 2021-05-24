@@ -8,6 +8,7 @@ namespace TestProject
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Test first git repo");
+            Console.WriteLine("change");
         }
     }
 }
