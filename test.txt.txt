@@ -1,1 +1,5 @@
-Testing merge conflict -- this file is better
+Test git branch -- file added
+Hello world
+
+Testing merge conflict -- same file added
+
